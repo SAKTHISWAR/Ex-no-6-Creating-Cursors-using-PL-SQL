@@ -52,6 +52,6 @@ END;
 
 ```
 ### Output:
-![image]()
+![image](https://github.com/SAKTHISWAR/Ex-no-6-Creating-Cursors-using-PL-SQL/blob/main/out!.png)
 
 ### Result:
